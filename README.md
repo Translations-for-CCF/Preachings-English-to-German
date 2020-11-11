@@ -7,3 +7,5 @@ Guidelines:
 * Parts from bible verses that are left out in the middle are written in brackets: []
 * The Bible version used for translation to German ist Schlachter 2000
 * Translations are done using the srt (SubRip) file format.
+
+See the current status in [the status overview](Status.md).
