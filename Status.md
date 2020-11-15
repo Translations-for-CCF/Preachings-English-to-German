@@ -4,7 +4,7 @@ This page shows tha current status of translations. If you finish a part of the 
 
 | Video name                    | Youtube link                 | in creation | to be reviewed | in review | to add to video | done |
 |-------------------------------|------------------------------|:-----------:|:--------------:|:---------:|:---------------:|:----:|
-| MOTIVATE - Modeling           | https://youtu.be/YwEwbtG6Xy4 |             |        x       |     x     |                 |      |
+| MOTIVATE - Modeling           | https://youtu.be/YwEwbtG6Xy4 |             |                |     x     |                 |      |
 | MOTIVATE - Open Communication | https://youtu.be/Pff66miSvww |             |        x       |           |                 |      |
 | MOTIVATE - Time               | https://youtu.be/R77wFepwjKw |      x      |                |           |                 |      |
 | MOTIVATE - Intimacy           | https://youtu.be/siFZZ1Ba-l8 |             |                |           |                 |      |
