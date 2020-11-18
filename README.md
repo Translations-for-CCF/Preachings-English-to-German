@@ -8,4 +8,11 @@ Guidelines:
 * The Bible version used for translation to German ist Schlachter 2000
 * Translations are done using the srt (SubRip) file format.
 
+Specific translations:
+* Discipler - Leiter
+* Disciple - Jünger
+* Discipleship - Jüngerschaft
+* Modeling - Vorbild sein
+* be intentional - handle bewusst
+
 See the current status in [the status overview](Status.md).
