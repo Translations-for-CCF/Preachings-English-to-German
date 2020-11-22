@@ -5,7 +5,7 @@ Guidelines:
 * Bible quotations are written with quotes: ""
 * What people said is written with quotes: ""
 * Parts from bible verses that are left out in the middle are written in brackets: []
-* The Bible version used for translation to German ist Schlachter 2000
+* The Bible version used for translation to German ist Hoffnung für alle
 * Translations are done using the srt (SubRip) file format.
 
 Specific translations:
