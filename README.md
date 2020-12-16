@@ -6,7 +6,9 @@ Guidelines:
 * What people said is written with quotes: ""
 * Parts from bible verses that are left out in the middle are written in brackets: []
 * The Bible version used for translation to German ist Hoffnung für alle
-* Translations are done using the srt (SubRip) file format.
+* Translations are done using simple srt (SubRip) file format.
+  * Simple means only times and unstyled text
+  * The final srt for sending to CCF can be automatically converted from the siple srt file on the review page
 
 Specific translations:
 * Discipler - Leiter
