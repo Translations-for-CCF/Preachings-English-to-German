@@ -9,6 +9,7 @@ Guidelines:
 * Translations are done using simple srt (SubRip) file format.
   * Simple means only times and unstyled text
   * The final srt for sending to CCF can be automatically converted from the siple srt file on the review page
+  * you can make one or two lines of text per section
 
 Specific translations:
 * Discipler - Leiter
