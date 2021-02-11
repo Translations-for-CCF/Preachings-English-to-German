@@ -13,3 +13,6 @@ This page shows tha current status of translations. If you finish a part of the 
 | MOTIVATE - Train              | https://youtu.be/mBPmIDdrRgg |  |             |                |           |                 |      |
 | MOTIVATE - Teach              | https://youtu.be/nr1J6P_vngQ |  |             |                |           |                 |      |
 | MOTIVATE - Entrust            | https://youtu.be/ZMvoSyInPlg |  |             |                |           |                 |      |
+|-------------------------------|------------------------------|:-------------:|:-----------:|:--------------:|:---------:|:---------------:|:----:|
+| Go Viral - Session 1, Part 1  |                              | GoViral/Session1/Part1.srt |             |        x       |           |                 |      |
+| Go Viral - Session 1, Part 2  |                              | GoViral/Session1/Part2.srt |      x      |                |           |                 |      |
