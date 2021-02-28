@@ -1,251 +1,251 @@
-00:00:05,300 --> 00:00:00,000
+00:00:05,300 --> 00:00:11,900
 Hi, willkommen zurück zu Sitzung 2 von Go Viral.
 Wir hoffen, dass ihr die erste Sitzung genossen habt
 
-00:00:11,900 --> 00:00:00,000
+00:00:11,900 --> 00:00:15,000
 und hoffentlich, dass ihr euch schon darauf freut anzufangen,
 
-00:00:15,000 --> 00:00:00,000
+00:00:15,000 --> 00:00:22,600
 im Glauben voranzugehen um auf euren Angehörigen, eure Freunde
 zuzugehen und neue Gruppen zu beginnen, die sich vervielfachen.
 
-00:00:22,600 --> 00:00:00,000
+00:00:22,600 --> 00:00:25,000
 Das ist das, worum es bei Go Viral geht.
 
-00:00:25,000 --> 00:00:00,000
+00:00:25,000 --> 00:00:31,100
 Ich möchte euch gern ein kleines Diagramm zeigen, dass euch
 einen Überblick darüber gibt was Go Viral sein wird.
 
-00:00:31,100 --> 00:00:00,000
+00:00:31,100 --> 00:00:33,700
 Das ist der Go Viral-Prozess.
 
-00:00:33,700 --> 00:00:00,000
+00:00:33,700 --> 00:00:41,200
 Wir haben es in Form der Es ausgedrückt, die wir in CCF bezüglich
 des Jüngerschafts-Prozess nutzen, um ihn zu verdeutlichen.
 
-00:00:41,200 --> 00:00:00,000
+00:00:41,200 --> 00:00:45,100
 In der ersten Phase, die wir Initiierung
 und Evangelisierung nennen,
 
-00:00:45,100 --> 00:00:00,000
+00:00:45,100 --> 00:00:51,000
 das ist wo wir auf Leute zugehen, wir evangelisieren,
 wir üben Beten-Zuwendung-Teilen aus.
 
-00:00:51,000 --> 00:00:00,000
+00:00:51,000 --> 00:00:58,800
 Wir üben aus, nach Leuten des Friedens zu schauen, für Leute zu
 beten und dann irgendwann Leute zu kleinen Gruppen zu formen.
 
-00:00:58,800 --> 00:00:00,000
+00:00:58,800 --> 00:01:06,500
 Und während der ersten Phase verlangen wir von jedem,
 eine Gruppe von fünf Leuten aufzubauen,
 
-00:01:06,500 --> 00:00:00,000
+00:01:06,500 --> 00:01:13,900
 die neue Gläubige sind, mit denen ihr euch regelmäßig trefft,
 sodass sie in ihrer Beziehung mit Christus wachsen können.
 
-00:01:13,900 --> 00:00:00,000
+00:01:13,900 --> 00:01:20,000
 Das bringt uns etwa durch die ersten zweieinhalb bis drei Monate,
 dann kommen wir zurück für die zweite Phase.
 
-00:01:20,000 --> 00:00:00,000
+00:01:20,000 --> 00:01:25,500
 Und das ist, was wir die Erbauungsphase nennen oder
 Aufbau von Gemeinschaften von Gläubigen,
 
-00:01:25,500 --> 00:00:00,000
+00:01:25,500 --> 00:01:32,900
 egal ob Hausgemeinschaften oder DGroups, aber wir wollen diese Gruppe von fünf zu einer Gruppe von wenigstens zehn Leuten ausbauen,
 
-00:01:32,900 --> 00:00:00,000
+00:01:32,900 --> 00:01:43,300
 sodass das eine Lobpreisgemeinschaft werden kann, eine Gemeinschaft,
 die gemeinsam das Abendmahl einnimmt, gemeinsam das Wort studiert,
 
-00:01:43,300 --> 00:00:00,000
+00:01:43,300 --> 00:01:46,500
 gemeinsam betet, sich umeinander kümmert, wirklich als
 Hausgemeinschaft funktioniert.
 
-00:01:46,500 --> 00:00:00,000
+00:01:46,500 --> 00:01:49,300
 Das ist es also, wonach wir in der zweiten Phase schauen.
 
-00:01:49,300 --> 00:00:00,000
+00:01:49,300 --> 00:01:56,500
 In der dritten Phase kommen wir für mehr Training zurück,
 um Mitglieder in diesen neuen Gruppen auszurüsten,
 
-00:01:56,500 --> 00:00:00,000
+00:01:56,500 --> 00:01:59,800
 fähig zu sein das Gleiche zu tun, was euch
 beigebracht wurde zu tun.
 
-00:01:59,800 --> 00:00:00,000
+00:01:59,800 --> 00:02:03,500
 Keine Sorge, ihr müsst nicht warten, bis ihr bei der dritten Phase
 seid,
 
-00:02:03,500 --> 00:00:00,000
+00:02:03,500 --> 00:02:09,900
 um anzufangen Leute zu mobilisieren, mit ihren Freunden zu teilen,
 an andere zuzugehen, sogar neue Gruppen zu beginnen.
 
-00:02:09,900 --> 00:00:00,000
+00:02:09,900 --> 00:02:18,000
 Dafür gibt es keinen Zeitrahmen. Aber um Leute bewusst auszurüsten,
 sodass sie anfangen können, die gleichen Dinge zu tun,
 
-00:02:18,000 --> 00:00:00,000
+00:02:18,000 --> 00:02:23,100
 machen wir ein spezielles Training in der dritten Phase,
 um sicherzustellen, dass sie das tun können.
 
-00:02:23,100 --> 00:00:00,000
+00:02:23,100 --> 00:02:30,900
 In der vierten Phase kommt ihr zurück, aber diesmal bringt ihr
 zwei neue Leute die durch die erste Phase gehen,
 
-00:02:30,900 --> 00:00:00,000
+00:02:30,900 --> 00:02:33,600
 während ihr die vierte Phase abschließt.
 
-00:02:33,600 --> 00:00:00,000
+00:02:33,600 --> 00:02:39,800
 Auf diese Weise vervielfachen wir bewusst die Leute,
 die den Go Viral-Prozess durchführen.
 
-00:02:39,800 --> 00:00:00,000
+00:02:39,800 --> 00:02:44,500
 Und während dieser Zeit werdet ihr lernen,
 die Gruppen die gestartet haben zu nehmen
 
-00:02:44,500 --> 00:00:00,000
+00:02:44,500 --> 00:02:48,700
 und fangt an sie zu einer Bewegung zu machen,
 die sich schnell verfielfacht,
 
-00:02:48,700 --> 00:00:00,000
+00:02:48,700 --> 00:02:51,800
 wobei mindestens 4 Generationen von neuen Gruppen zu sehen sind.
 
-00:02:51,800 --> 00:00:00,000
+00:02:51,800 --> 00:02:58,800
 Das ist also der Überblick darüber, wohin Go Viral geht.
 Wir freuen uns darauf zu sehen was Gott durch euch tut.
 
-00:02:58,800 --> 00:00:00,000
+00:02:58,800 --> 00:03:04,000
 Während dieser Session werden wir uns mehr auf Gottes Herz fokussieren.
 
-00:03:04,000 --> 00:00:00,000
+00:03:04,000 --> 00:03:06,400
 Manchmal verstricken wir uns im Training.
 
-00:03:06,400 --> 00:00:00,000
+00:03:06,400 --> 00:03:12,700
 Wir vergessen, dass wir tatsächlich auf das Herz
 von Gott eingehen, für die die Jesus nicht kennen.
 
-00:03:12,700 --> 00:00:00,000
+00:03:12,700 --> 00:03:22,800
 Während dieser viralen Zeit von Covid sehen wir viel
 Hoffnungslosigkeit, viel Verzeiflung, viel Sorge,
 
-00:03:22,800 --> 00:00:00,000
+00:03:22,800 --> 00:03:29,800
 Menschen, die wirklich nach Antworten und Hoffnung schauen
 und tatsächlich sieht Gott das mehr als wir es tun.
 
-00:03:29,800 --> 00:00:00,000
+00:03:29,800 --> 00:03:32,200
 Er sieht das Herz der Menschen in ihrer Not.
 
-00:03:32,200 --> 00:00:00,000
+00:03:32,200 --> 00:03:35,400
 Was wir also tun wollen, ist uns etwa darauf zu fokussieren.
 
-00:03:35,400 --> 00:00:00,000
+00:03:35,400 --> 00:03:41,000
 Als Einstieg möchte ich, dass wir eine Passage lesen,
 die uns wahrscheinlich sehr bekannt ist
 
-00:03:41,000 --> 00:00:00,000
+00:03:41,000 --> 00:03:47,100
 und besonders während dieser Zeit, in der wir für unsere
 Regierungsvorsitzenden beten, macht es viel Sinn.
 
-00:03:47,100 --> 00:00:00,000
+00:03:47,100 --> 00:03:53,000
 Es befindet sich im 1. Timotheus 2:1-4 und ich möchte
 es nun für uns lesen.
 
-00:03:53,000 --> 00:00:00,000
+00:03:53,000 --> 00:03:57,000
 Es sagt: "Am wichtigsten ist, dass die Gemeinde
 beständig im Gebet bleibt. Betet für alle Menschen;
 
-00:03:57,000 --> 00:00:00,000
+00:03:57,000 --> 00:04:01,000
 bringt eure Bitten, Wünsche, eure Anliegen und
 euren Dank für sie vor Gott.
 
-00:04:01,000 --> 00:00:00,000
+00:04:01,000 --> 00:04:06,900
 Betet besonders für alle, die in Regierung und Staat Verantwortung
 tragen, damit wir in Ruhe und Frieden leben können,
 
-00:04:06,900 --> 00:00:00,000
+00:04:06,900 --> 00:04:13,800
 ehrfürchtig vor Gott und aufrichtig unseren Mitmenschen gegenüber.
 So soll es sein, und so gefällt es Gott, unserem Retter.
 
-00:04:13,800 --> 00:00:00,000
+00:04:13,800 --> 00:04:19,000
 Denn er will, dass alle Menschen gerettet
 werden und seine Wahrheit erkennen."
 
-00:04:19,000 --> 00:00:00,000
+00:04:19,000 --> 00:04:23,100
 Wisst ihr, während dieser Zeit hoffe ich,
 dass ihr für eure Regierungsvorsitzenden betet.
 
-00:04:23,100 --> 00:00:00,000
+00:04:23,100 --> 00:04:27,200
 Es ist nicht einfach in dieser Krisenzeit in der wir sind zu führen.
 
-00:04:27,200 --> 00:00:00,000
+00:04:27,200 --> 00:04:32,200
 Aber gleichzeitig könnten wir etwas übersehen,
 was in dieser Passage sehr wichtig ist.
 
-00:04:32,200 --> 00:00:00,000
+00:04:32,200 --> 00:04:34,000
 Ich habe es hier hervorgehoben.
 
-00:04:34,000 --> 00:00:00,000
+00:04:34,000 --> 00:04:41,700
 Es sagt: "So soll es sein, und so gefällt es Gott, unserem
 Retter. Denn er will, dass alle Menschen gerettet werden".
 
-00:04:41,700 --> 00:00:00,000
+00:04:41,700 --> 00:04:47,000
 Ihr erkennt, dass Gottes Wunsch mehr ist als
 ein ruhiges und friedvolles Leben zu führen.
 
-00:04:47,000 --> 00:00:00,000
+00:04:47,000 --> 00:04:53,000
 Es ist nicht nur, dass die Regierung gute Entscheidungen trifft
 und richtig auf die Krise reagiert.
 
-00:04:53,000 --> 00:00:00,000
+00:04:53,000 --> 00:05:00,800
 Sondern sein Wunsch ist, dass selbst in diesen
 schwierigen Zeiten, dass jede Person gerettet wird.
 
-00:05:00,800 --> 00:00:00,000
+00:05:00,800 --> 00:05:04,400
 Wisst ihr, ich muss auf mein eigenes Leben schauen und
 mir die Frage stellen:
 
-00:05:04,400 --> 00:00:00,000
+00:05:04,400 --> 00:05:07,800
 "Teile ich wirklich seine Bürde für die Verlorenen?"
 
-00:05:07,800 --> 00:00:00,000
+00:05:07,800 --> 00:05:12,000
 Tatsächlich ist es das, worauf wir in den
 nächsten Minuten schauen wollen.
 
-00:05:12,000 --> 00:00:00,000
+00:05:12,000 --> 00:05:22,400
 Für die nächsten 35 oder 40 Minuten, würden wir euch gern zurück
 in eure Räume schicken oder in eure Übungsgruppen gehen lassen
 
-00:05:22,400 --> 00:00:00,000
+00:05:22,400 --> 00:05:29,100
 und werft einen Blick auf zwei Reihen von Passagen,
 die wirklich über Gottes Herz für die Verlorenen sprechen,
 
-00:05:29,100 --> 00:00:00,000
+00:05:29,100 --> 00:05:31,200
 Menschen, die ihn noch nicht kennen.
 
-00:05:31,200 --> 00:00:00,000
+00:05:31,200 --> 00:05:36,900
 Also, für die nächsten 35 oder 40 Minuten haben wir zwei
 Aktivitäten, von denen wir wollen, dass ihr sie durchführt.
 
-00:05:36,900 --> 00:00:00,000
+00:05:36,900 --> 00:05:40,700
 Und das ist besonders eine Zeit für ein wenig leichte Besinnung,
 
-00:05:40,700 --> 00:00:00,000
+00:05:40,700 --> 00:05:44,300
 einfach von unserem Gott zu hören, auf den heiligen Geist zu hören,
 
-00:05:44,300 --> 00:00:00,000
+00:05:44,300 --> 00:05:52,500
 der uns, glaube ich, Einsicht darin geben wird wie er über die fühlt, die den Herrn Jesus Christus noch nicht kennen.
 
-00:05:52,500 --> 00:00:00,000
+00:05:52,500 --> 00:05:56,000
 Wir würden euch also bitten in eure Gruppen zu gehen.
 
-00:05:56,000 --> 00:00:00,000
+00:05:56,000 --> 00:05:59,800
 Euer Leiter wird die zwei Aktivitäten leiten.
 
-00:05:59,800 --> 00:00:00,000
+00:05:59,800 --> 00:06:05,500
 Und dann kommen wir gemeinsam zurück und teilen ein paar
 gemeinsame Einblicke über das, was wir gelernt haben.
 
-00:06:05,500 --> 00:00:00,000
+00:06:05,500 --> 00:06:11,500
 Also geht jetzt in eure Übungsgruppen und wir sind
 in etwa 35 oder 40 Minuten zurück.
