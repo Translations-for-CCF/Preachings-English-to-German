@@ -18,5 +18,7 @@ Specific translations:
 * Modeling - Vorbild sein
 * be intentional - handle bewusst
 * Pray, Care, Share - Beten, Fürsorge, Teilen
+* Facilitator - Moderator
+* Ministry - Amt
 
 See the current status in [the status overview](Status.md).
