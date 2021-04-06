@@ -17,5 +17,6 @@ Specific translations:
 * Discipleship - Jüngerschaft
 * Modeling - Vorbild sein
 * be intentional - handle bewusst
+* Pray, Care, Share - Beten, Fürsorge, Teilen
 
 See the current status in [the status overview](Status.md).
