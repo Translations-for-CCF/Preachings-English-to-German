@@ -23,3 +23,4 @@ This page shows tha current status of translations. If you finish a part of the 
 | Go Viral - Session 6, Part 1  | https://www.example.com | GoViral/Session6/Part1.srt |             |        x       |           |                 |      |
 | Go Viral - Session 6, Part 2  | https://www.example.com | GoViral/Session6/Part2.srt |             |        x       |           |                 |      |
 | Go Viral - Session 7          | https://www.example.com | GoViral/Session7/Part1.srt |             |        x       |           |                 |      |
+| Go Viral - Session 8, Part 1  | https://www.example.com | GoViral/Session8/Part1.srt |             |        x       |           |                 |      |
